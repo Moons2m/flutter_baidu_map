@@ -1,16 +1,9 @@
 # flutter_baidu_map
 
-A new Flutter project.
+因为网上很多资料都没有详细告知如何使用百度地图组件，所以作者做出这一个案例。
+
+Because a lot of information on the Internet did not tell us how to use Baidu Map Component in detail, so the author made this case.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 效果图
+![](/assets/images/1.png)
