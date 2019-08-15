@@ -11,7 +11,12 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:AndroidView(viewType: 'TMap',),
+      home:Scaffold(
+        appBar: AppBar(
+          title: Text('Flutter BaiduMap'),
+        ),
+        body: AndroidView(viewType: 'TMap',),
+      ),
     );
   }
 }
